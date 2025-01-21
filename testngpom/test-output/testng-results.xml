@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-21T21:32:58 IST" name="Default suite" finished-at="2025-01-21T21:32:59 IST" duration-ms="964">
+    <groups>
+    </groups>
+    <test started-at="2025-01-21T21:32:58 IST" name="Default test" finished-at="2025-01-21T21:32:59 IST" duration-ms="964">
+      <class name="datadriven.DataDrivenTestingReadingData">
+        <test-method signature="Login(java.lang.String,java.lang.String)[pri:0, instance:datadriven.DataDrivenTestingReadingData@69e1dd28]" started-at="2025-01-21T21:32:59 IST" name="Login" data-provider="TestDataFeed" finished-at="2025-01-21T21:32:59 IST" duration-ms="11" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pasword]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Login(java.lang.String,java.lang.String)[pri:0, instance:datadriven.DataDrivenTestingReadingData@69e1dd28]" started-at="2025-01-21T21:32:59 IST" name="Login" data-provider="TestDataFeed" finished-at="2025-01-21T21:32:59 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pasword]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Login(java.lang.String,java.lang.String)[pri:0, instance:datadriven.DataDrivenTestingReadingData@69e1dd28]" started-at="2025-01-21T21:32:59 IST" name="Login" data-provider="TestDataFeed" finished-at="2025-01-21T21:32:59 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pasword]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Login(java.lang.String,java.lang.String)[pri:0, instance:datadriven.DataDrivenTestingReadingData@69e1dd28]" started-at="2025-01-21T21:32:59 IST" name="Login" data-provider="TestDataFeed" finished-at="2025-01-21T21:32:59 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pasword]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Login(java.lang.String,java.lang.String)[pri:0, instance:datadriven.DataDrivenTestingReadingData@69e1dd28]" started-at="2025-01-21T21:32:59 IST" name="Login" data-provider="TestDataFeed" finished-at="2025-01-21T21:32:59 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pasword]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Login(java.lang.String,java.lang.String)[pri:0, instance:datadriven.DataDrivenTestingReadingData@69e1dd28]" started-at="2025-01-21T21:32:59 IST" name="Login" data-provider="TestDataFeed" finished-at="2025-01-21T21:32:59 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username6]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pasword]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Login(java.lang.String,java.lang.String)[pri:0, instance:datadriven.DataDrivenTestingReadingData@69e1dd28]" started-at="2025-01-21T21:32:59 IST" name="Login" data-provider="TestDataFeed" finished-at="2025-01-21T21:32:59 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username7]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pasword]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Login(java.lang.String,java.lang.String)[pri:0, instance:datadriven.DataDrivenTestingReadingData@69e1dd28]" started-at="2025-01-21T21:32:59 IST" name="Login" data-provider="TestDataFeed" finished-at="2025-01-21T21:32:59 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username8]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pasword]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+      </class> <!-- datadriven.DataDrivenTestingReadingData -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
