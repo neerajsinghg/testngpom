@@ -1,4 +1,6 @@
 package testNG_package;
+import org.testng.annotations.AfterMethod;
+import org.testng.annotations.Test;
 import java.time.Duration;
 
 import org.openqa.selenium.By;
@@ -31,6 +33,7 @@ public class TestClass {
 		
 	}
 	
+	@AfterMethod
 	@AfterTest
 	public void tearDown() {
 		

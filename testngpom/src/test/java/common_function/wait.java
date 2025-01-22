@@ -1,4 +1,4 @@
-package comutility.common_function;
+package common_function;
 import java.time.Duration;
 import org.openqa.selenium.WebDriver;
 

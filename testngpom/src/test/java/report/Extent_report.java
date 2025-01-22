@@ -1,4 +1,4 @@
-package comutility.report;
+package report;
 
 public class Extent_report {
 

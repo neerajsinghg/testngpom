@@ -1,5 +1,7 @@
-package comutility.common_function;
+package common_function;
 
+import org.testng.annotations.Test;
+import org.testng.annotations.BeforeMethod;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
@@ -9,6 +11,7 @@ import org.testng.annotations.Test;
 
 public class Browser {
 	public static WebDriver driver;
+	@BeforeMethod
 	public static void setUp(String browser) {
 		
 		if(browser.equalsIgnoreCase("chrome")) {

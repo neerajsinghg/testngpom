@@ -1,4 +1,4 @@
-package comutility.locator;
+package locator;
 
 public class LoginLocator {
 
